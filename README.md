@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxis1601
+- 👋 Hi, I’m Max
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning PowerShell
 
